@@ -18,8 +18,8 @@ A portfolio analytics project combining **Python for data processing and financi
 
 ## Project Structure
 
-- `Portfolio_Data_Collection.ipynb` – Data collection, processing and portfolio calculations
-- `Portfolio_Risk_Return_Analysis.pbix` – Power BI dashboard and visualization
+- Portfolio_Data_Collection.ipynb – Data collection, processing and portfolio calculations
+- Portfolio_Risk_Return_Analysis.pbix – Power BI dashboard and visualization
 
 ## Key Outcome
 
